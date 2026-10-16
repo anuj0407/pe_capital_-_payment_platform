@@ -458,7 +458,7 @@
       "committed_amount_usd": 10242421,
       "commitment_date": "2024-04-05",
       "contributed_total": 990368.33,
-      "invested_total": 576487.1
+      "invested_total": 634148.63
     },
     {
       "commitment_id": "CMT_00015",
@@ -475,7 +475,7 @@
       "investor_id": "LP_0031",
       "committed_amount_usd": 7493686,
       "commitment_date": "2024-10-23",
-      "contributed_total": 4130908.63,
+      "contributed_total": 4905043.54,
       "invested_total": 1810603.58
     },
     {
@@ -530,7 +530,7 @@
       "committed_amount_usd": 6345422,
       "commitment_date": "2025-04-28",
       "contributed_total": 2080270.3900000001,
-      "invested_total": 698916.84
+      "invested_total": 1123214.37
     },
     {
       "commitment_id": "CMT_00023",
@@ -728,7 +728,7 @@
       "committed_amount_usd": 12266457,
       "commitment_date": "2024-01-19",
       "contributed_total": 4042750.7,
-      "invested_total": 576506.8
+      "invested_total": 1837161.82
     },
     {
       "commitment_id": "CMT_00045",
@@ -908,7 +908,7 @@
       "committed_amount_usd": 19634162,
       "commitment_date": "2024-06-08",
       "contributed_total": 8639247.78,
-      "invested_total": 4449819.0600000005
+      "invested_total": 5664121.2
     },
     {
       "commitment_id": "CMT_00065",
@@ -1146,7 +1146,7 @@
     "fund": 5,
     "commitment": 66,
     "company": 30,
-    "payment": 1162
+    "payment": 1188
   },
-  "last_business_date": "2026-10-15"
+  "last_business_date": "2026-10-16"
 }
